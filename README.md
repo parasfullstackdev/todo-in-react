@@ -27,8 +27,8 @@ LocalStorage API: For persisting user data
   index.css            # Global styles
 🚀 Installation and Setup
 
-Clone the repository
-bashgit clone https://github.com/your-username/react-todo-app.git
+Clone the repository https://github.com/parasfullstackdev/todo-in-react
+bashgit clone 
 
 Install dependencies
 bash npm install
